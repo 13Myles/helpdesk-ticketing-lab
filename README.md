@@ -1,11 +1,13 @@
-# 🛠️ osTicket Helpdesk Lab (Pre-Configured + Docker)
+# 🛠️ osTicket Helpdesk Ticketing System (Docker Lab)
 
-This is a ready-to-go osTicket deployment lab with:
+This project is a fully deployed IT Help Desk ticketing system using osTicket and Docker, designed to simulate real-world technical support operations.
 
-- ✅ Admin account (ostadmin / Admin1)
-- ✅ Practice tickets to simulate real-world support
-- ✅ Dockerized setup (MySQL + osTicket)
-- ✅ Screenshots for GitHub/portfolio
+- ✅ Full osTicket deployment (Dockerized: MySQL + osTicket)
+- ✅ Admin and support user setup for ticket management
+- ✅ Realistic sample tickets (VPN, Wi-Fi, permissions, performance issues)
+- ✅ Ticket lifecycle simulation (create → assign → resolve → close)
+- ✅ IT support workflow practice (Tier 1 troubleshooting & escalation)
+- ✅ Ready for portfolio and GitHub demonstration
 
 ---
 
@@ -27,23 +29,23 @@ This is a ready-to-go osTicket deployment lab with:
 
 These tickets are great to recreate manually to simulate helpdesk workflows:
 
-### Ticket 1: Printer Not Working  
-**From:** John Doe  
-**Subject:** Printer in Office 2B is offline  
-**Priority:** Medium  
-**Resolution:** Unplugged, plugged back in, verified printing
+### Ticket 1: Wi-Fi Connectivity Issue  
+**From:** Sarah Williams 
+**Subject:** Laptop keeps disconnecting from Wi-Fi 
+**Priority:** High 
+**Resolution:** Reset network adapter, forgot and reconnected to Wi-Fi network, connection stabilized and user confirmed issue resolved
 
-### Ticket 2: Password Reset Request  
-**From:** Jane Smith  
-**Subject:** Can't access Outlook  
+### Ticket 2: Shared Drive Access Issue 
+**From:** David Martinez 
+**Subject:** Cannot access shared folder on network drive  
 **Priority:** High  
-**Resolution:** Password reset, user confirmed login
+**Resolution:** Verified permissions, re-added user to correct security group, access restored and user confirmed folder is now accessible
 
-### Ticket 3: Software Install Request  
-**From:** Mark Lee  
-**Subject:** Need Zoom installed  
+### Ticket 3: Computer Running Slow  
+**From:** Jessica Taylor 
+**Subject:** PC is very slow during startup and use  
 **Priority:** Low  
-**Resolution:** Installed Zoom and tested audio
+**Resolution:** Cleared temporary files, removed unnecessary startup programs, rebooted system and performance improved significantly
 
 ---
 
