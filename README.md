@@ -53,10 +53,81 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 
 > Add your own screenshots to the `screenshots/` folder for portfolio use.
 
-- ![Login](screenshots/screenshot-login.png)
-- ![Ticket List](screenshots/screenshot-tickets.png)
-- ![Reply](screenshots/screenshot-reply.png)
-- ![Resolved](screenshots/screenshot-resolved.png)
+- ![WSL app]
+
+!wslapp.png
+
+- ![Ubuntu running (terminal)]
+
+!ubunturunninginterm.png
+
+- ![Terminal]
+
+!terminal.png
+
+- ![Docker app]
+
+!dockerapp.png
+
+- ![Verify Docker (terminal)]
+
+!verifydockerterminalcomplete.png
+
+- ![Support center]
+
+!supportcenter.png
+
+- ![Login]
+
+!osTicket.png
+
+- ![Ticket list (dashboard)]
+
+!osticketdashboard.png
+
+- ![Ticket on dashboard]
+
+!ticketondashboard.png
+
+- ![Ticketing system]
+
+!ticketingsystem.png
+
+- ![Creating ticket]
+
+!creatingticket.png
+
+- ![Ticket created]
+
+!ticketcreated.png
+
+- ![Ticket claimed]
+
+!ticketclaimed.png
+
+- ![Ticket details]
+
+!ticketdisplay.png
+
+- ![Ticket details (view)]
+
+!ticketdisplay1.png
+
+- ![Ticket reply]
+
+!ticketreply.png
+
+- ![Transfer support]
+
+!transfersupport.png
+
+- ![Closing ticket]
+
+!closingticket.png
+
+- ![Ticket closed (success)]
+
+!closeticketsuccessed.png
 
 ---
 
