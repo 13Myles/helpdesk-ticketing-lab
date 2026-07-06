@@ -60,13 +60,15 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 
 - ![Ubuntu running (terminal)]
 
-!ubunturunninginterm.png
+<img width="1139" height="307" alt="image" src="https://github.com/user-attachments/assets/78f6f3e5-5a8f-424f-8d72-94903e837b60" />
+
 
 - ![Terminal]
 
 !terminal.png
 
-- ![Docker app]
+- <img width="1497" height="785" alt="image" src="https://github.com/user-attachments/assets/12905786-77db-4b94-ab9e-c80569388a72" />
+
 
 !dockerapp.png
 
