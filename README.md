@@ -1,2 +1,12 @@
 # helpdesk-ticketing-lab
-A simulated IT Help Desk Ticketing System built using osTicket and Docker. This project demonstrates real-world IT support workflows including ticket creation, prioritization, troubleshooting, escalation, and resolution. It showcases foundational IT support and system administration skills relevant to entry-level help desk and cybersecurity roles.
+🛠️ osTicket Helpdesk Ticketing System (Docker Lab)
+This project is a fully deployed IT Help Desk ticketing system using osTicket and Docker, designed to simulate real-world technical support operations.
+
+It includes:
+
+✅ Full osTicket deployment (Dockerized: MySQL + osTicket)
+✅ Admin and support user setup for ticket management
+✅ Realistic sample tickets (VPN, Wi-Fi, permissions, performance issues)
+✅ Ticket lifecycle simulation (create → assign → resolve → close)
+✅ IT support workflow practice (Tier 1 troubleshooting & escalation)
+✅ Ready for portfolio and GitHub demonstration
