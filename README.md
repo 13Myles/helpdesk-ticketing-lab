@@ -29,10 +29,10 @@ This project is a fully deployed IT Help Desk ticketing system using osTicket an
 
 # These tickets are great to recreate manually to simulate helpdesk workflows:
 
-### Ticket 1: Wi-Fi Connectivity Issue  
+### Ticket 2: Shared Drive Access Issue 
 **From:** Sarah Williams 
-**Subject:** Laptop keeps disconnecting from Wi-Fi 
-**Priority:** High 
+**Subject:** Laptop keeps disconnecting from Wi-Fi  
+**Priority:** High  
 **Resolution:** Reset network adapter, forgot and reconnected to Wi-Fi network, connection stabilized and user confirmed issue resolved
 
 ### Ticket 2: Shared Drive Access Issue 
