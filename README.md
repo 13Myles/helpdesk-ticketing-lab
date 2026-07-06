@@ -55,7 +55,8 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 
 - ![WSL app]
 
-!wslapp.png
+<img width="1769" height="1117" alt="image" src="https://github.com/user-attachments/assets/ad4878e1-cd1a-4b14-b034-6c204a8a4890" />
+
 
 - ![Ubuntu running (terminal)]
 
