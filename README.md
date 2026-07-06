@@ -27,7 +27,7 @@ This project is a fully deployed IT Help Desk ticketing system using osTicket an
 
 ## 🎫 Practice Tickets
 
-These tickets are great to recreate manually to simulate helpdesk workflows:
+# These tickets are great to recreate manually to simulate helpdesk workflows:
 
 ### Ticket 1: Wi-Fi Connectivity Issue  
 **From:** Sarah Williams 
