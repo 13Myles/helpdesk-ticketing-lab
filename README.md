@@ -70,7 +70,7 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 <img width="1497" height="785" alt="image" src="https://github.com/user-attachments/assets/d33f3607-ba6c-4036-a254-ca1958d1c978" />
 
 
-- ~[Docker app]
+- ![Docker app]
 
 <img width="1706" height="997" alt="image" src="https://github.com/user-attachments/assets/77542c5d-d134-4895-8441-41ebf5db7d68" />
 
@@ -115,7 +115,7 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 
 - ![Ticket details]
 
-!ticketdisplay.png
+<img width="974" height="611" alt="image" src="https://github.com/user-attachments/assets/490462fc-d498-4972-94e8-ae43df3a6cf2" />
 
 - ![Ticket details (view)]
 
