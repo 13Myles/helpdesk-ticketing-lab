@@ -115,7 +115,7 @@ These tickets are great to recreate manually to simulate helpdesk workflows:
 
 - ![Ticket details]
 
-<img width="974" height="611" alt="image" src="https://github.com/user-attachments/assets/490462fc-d498-4972-94e8-ae43df3a6cf2" />
+<img width="962" height="1012" alt="image" src="https://github.com/user-attachments/assets/ac3d1913-0074-4a68-a9f5-f72c741af125" />
 
 - ![Ticket details (view)]
 
